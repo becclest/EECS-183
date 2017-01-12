@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int x = 1000:
+int y = 2000;
+double z = x*y*x*2;
+cout << double z
